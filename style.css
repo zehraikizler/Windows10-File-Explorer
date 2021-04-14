@@ -206,11 +206,15 @@ body {
     color: #333;
 }
 
+a {
+    text-decoration: none;
+}
+
 
 /*foot*/
 
 .foot {
-    margin-top: 26%;
+    margin-top: 24%;
 }
 
 
